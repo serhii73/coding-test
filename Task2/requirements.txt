@@ -1,3 +1,4 @@
 requests
 pytest
 beautifulsoup4
+word2number==1.1
